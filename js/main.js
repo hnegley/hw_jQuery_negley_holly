@@ -4,5 +4,5 @@
  //   }});
 
 $( document ).ready(function() {
-       var paragraphs = $('#wikiArticle').find('p').css({'color': 'red', 'size': '2em', 'font-weight': 'strong'});
+       var paragraphs = $('#wikiArticle').find('p').css({'color': 'red', 'font-size': '2em', 'font-weight': 'strong'});
        });
